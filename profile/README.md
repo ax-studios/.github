@@ -3,6 +3,7 @@
 Open Source College CMS System made with NextJS, tailwind, and typescript
 
 ## MVP
+
 - Teacher can upadte the student attendnce
 
 ## Feature
