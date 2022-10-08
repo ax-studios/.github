@@ -1,6 +1,6 @@
 # Ax Studios
 
-Open Source College CMS System made with NextJS, tailwind, and typescript
+Open Source College LMS System made with NextJS, tailwind, and typescript
 
 ## MVP
 
