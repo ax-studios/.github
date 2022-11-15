@@ -1,6 +1,4 @@
-# Ax Studios
-
-We built Open Source Product.
+ ![image](https://user-images.githubusercontent.com/93640141/201927315-c30fbd47-adc2-47f4-8893-9e58f457b478.png)
 
 ## Projects:
 
